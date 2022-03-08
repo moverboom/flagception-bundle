@@ -24,7 +24,7 @@
     "symfony/http-kernel": "^4.4 | ^5.0 | ^6.0",
     "twig/twig": "^1.18|^2.0|^3.0",
     "doctrine/annotations": "^1.13",
-    "moverboo/flagception": "dev-master"
+    "moverboom/flagception": "dev-master"
   },
   "require-dev": {
     "symfony/phpunit-bridge": "^5.0 | ^6.0",
